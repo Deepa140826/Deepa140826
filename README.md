@@ -1,73 +1,28 @@
-<h1 align="center">
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  , I'm Deepa
-  
-  
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Circuit+Designer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-  
-  
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="200"/>
-</div>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Deepa
+
+[![](https://img.shields.io/badge/-@deepa-%23181717?style=flat-square&logo=github)](https://github.com/Deepa140826)
+[![Linkedin: Deepa](https://img.shields.io/badge/-@deepa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/deepa-elangovan-b4a628215)
+
+𝐼 ❤️ 𝑐𝑜𝑑𝑖𝑛𝑔!
+
+I am **Deepa E**, student from **Bannari Amman Institute of Technology** pursuing **Electronics and Communication Engineering**. I am an Experienced **Frontend Developer and Problem Solver**.
+
+:computer: **𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 front-𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙖𝙣𝙙 𝙘𝙤𝙢𝙥𝙚𝙩𝙞𝙩𝙞𝙫𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧.**
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-<div id="badges"align="center">
-  <a href="https://www.linkedin.com/in/deepa-elangovan-b4a628215/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Deepa140826">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
-  </a>
-<div id="badges"align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepa140826&style=flat-square&color=blue" alt=""/>
-</div>
-<br><br>
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-:sassy_man:  About me
-<h6 align="left">
-	<samp>
-    - Electronics and Communication engineer
-    <br><br>
-    - Striving to help society by offering engineering solutions to challenges that are currently being faced
-    <br><br>
-    - I love using Software as a solution for every Problem
-    <br><br> 
-    - In my free time, I solve problems on GeeksforGeeks and read tech articles
-    <br><br>  
-		<samp>
-</h6>	
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h6 align="left"> :hammer_and_wrench: Languages and Tools :<h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
- <br><br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>	
-<h6 align="left">📊: Github Stats :<h6>
- <p align="left">
-	 
-![Deepa140826's github stats](https://github-readme-stats.vercel.app/api?username=Deepa140826&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepa140826&theme=algolia" alt="Deepa140826"  />
-	
-   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-	
-<h6 align="left">⚡ Recent GitHub Activity:<h6>
-	
-   <a href="https://github.com/Deepa140826"><img alt="Deepa140826's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deepa140826&custom_title=Deepa140826's%20Contribution%20Graph&theme=react-dark" height="500"/></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-	
-<h6 align="left">Git profile Trophies:<h6>
+## 𝗦𝘁𝗮𝘁𝘀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa140826&theme=dracula)<br>
+![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=Deepa140826&show_icons=true&theme=dracula)
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deepa140826&layout=compact&theme=algolia" alt="Deepa140826" /></a> </p>
-	
-Credits: [Deepa140826](https://github.com/Deepa140826)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+![](https://github-profile-trophy.vercel.app/?username=Deepa140826)
